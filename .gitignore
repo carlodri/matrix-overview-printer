@@ -1,0 +1,8 @@
+# Avoid including Experiment files
+*.pxp
+*.pxt
+*.uxp
+*.uxt
+
+# Avoid including test data folder
+test-data/
